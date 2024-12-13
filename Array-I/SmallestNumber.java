@@ -1,4 +1,5 @@
 public class SmallestNumber {
+    //find Smallest Number inside the Array
     public static int getSmallest(int arr[]){
         int smallest=Integer.MAX_VALUE;
         for (int i : arr) {
