@@ -13,7 +13,7 @@ System.out.println(p1.getPassword());
 
 
 class BankAccount{
-    String userName="Nikhil";
+    String userName="Nikhil Sharma";
      private String password;
      void setPassword(String pwd){
         this.password=pwd;
