@@ -1,4 +1,5 @@
 public class KadaneAlgo {
+    //get maximus subArraySum
     public static int maxSum(int arr[]){
 int curr=0;
 int max=Integer.MIN_VALUE;
