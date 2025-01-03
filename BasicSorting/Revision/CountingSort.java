@@ -9,7 +9,8 @@ for(int i=0; i<arr.length; i++){
         max=arr[i];
     }
 }
-
+//Counting Sort
+//in java
 int[] arr2=new int[max];
 
 for(int j=0; j<arr.length; j++){
