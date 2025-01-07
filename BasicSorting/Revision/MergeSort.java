@@ -11,6 +11,7 @@ public class MergeSort {
         mergeBoth(arr,start,mid,end);
     }
 
+    //merge method
     public static void mergeBoth(int arr[], int start, int mid, int end){
 int [] temp=new int[end-start+1];
 
