@@ -13,6 +13,7 @@ this.top=-1;
 
 boolean isEmpty(){
     return top==-1;
+    //check for is empty
 }
 
 
