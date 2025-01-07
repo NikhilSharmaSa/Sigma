@@ -64,7 +64,7 @@ for(int i=0; i<arr.length; i++){
 
 }
 
-//sorting with countarr
+//sorting with countarr this is a counting Sort techniqe
 int j=0;
 for(int i=0; i<countarr.length; i++){
 while (countarr[i]>0) {
